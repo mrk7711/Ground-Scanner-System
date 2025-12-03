@@ -2,9 +2,10 @@
 
 Real‑time 3D scanning and visualization from ESP32 sensor.
 
-## Getting Started
+📌 Overview
 
-This project is a starting point for a Flutter application.
+This project is a modular Ground Scanning System designed to capture, process, and visualize subsurface data.
+It collects sensor readings in real time, filters the signals, and generates structured output for 2D/3D analysis — useful for research, prototyping, and geophysical experiments.
 
 A few resources to get you started if this is your first Flutter project:
 
