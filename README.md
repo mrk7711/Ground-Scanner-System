@@ -1,5 +1,4 @@
-# g_scan
-
+# Ground-Scanner-System
 Real‑time 3D scanning and visualization from ESP32 sensor.
 
 📌 Overview
